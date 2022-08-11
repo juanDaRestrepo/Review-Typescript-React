@@ -2,7 +2,7 @@
 
 const Functions = () => {
 
-    const sum = (a: number, b: number) : number => {
+    const sum = ( a: number, b: number ) : number => {
         return a + b;
     }
 
